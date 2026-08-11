@@ -28,8 +28,3 @@ jobs:
 
           plugin_repositories: yes
           plugin_repositories_featured: Royansesad/backend-rumah-sakit
-
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Indonesia/Jakarta
